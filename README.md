@@ -3,7 +3,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-본 레포지토리는 DACON **'구조물 붕괴 예측 AI 경진대회'**의 추론 및 학습 파이프라인 코드를 담고 있습니다. 
+본 레포지토리는 DACON '구조물 붕괴 예측 AI 경진대회'의 추론 및 학습 파이프라인 코드를 담고 있습니다. 
 구조물의 정면(Front)과 상단(Top) 두 가지 시점의 이미지를 분석하여 붕괴 여부(Stable/Unstable)를 이진 분류하는 딥러닝 모델입니다.
 
 # 💡 Architecture: Dual-Stream ResNet50 (Pseudo-Siamese)
